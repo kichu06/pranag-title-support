@@ -73,7 +73,6 @@ export default function Navbar() {
           </div>
           <div>
             <p className="text-sm font-semibold uppercase tracking-[0.16em] text-slate-900">{COMPANY_NAME}</p>
-            <p className="text-xs text-slate-500">Enterprise Title Support</p>
           </div>
         </div>
 
